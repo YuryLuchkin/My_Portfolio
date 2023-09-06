@@ -57,7 +57,7 @@
 <li>Собрал калькулятор юнит-экономики с его помощью рассчитал retention, LT, LTR, CAC маржинальность.
 </ol>
 
->Ссылка на проект
+[Проект №2](https://github.com/YuryLuchkin/portfolio/blob/main/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%E2%84%962.md)
 
 <p>Выводы (итоги):<p>
 <ol>
