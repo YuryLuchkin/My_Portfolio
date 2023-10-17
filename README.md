@@ -31,7 +31,7 @@
 <li>Просчитал сценарий, при котором планы маркетинга будут увеличены на 12%</li>
 </ol>
 
-[Проект №1](https://github.com/YuryLuchkin/portfolio/blob/main/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%E2%84%961.md)
+[Проект №2](https://github.com/YuryLuchkin/My_portfolio/edit/main/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%E2%84%962.md)
 
 <p>Выводы (итоги):<p>
 <ol>
@@ -56,7 +56,7 @@
 <li>Собрал калькулятор юнит-экономики с его помощью рассчитал retention, LT, LTR, CAC маржинальность.
 </ol>
 
-[Проект №2](https://github.com/YuryLuchkin/portfolio/blob/main/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%E2%84%962.md)
+[Проект №3](https://github.com/YuryLuchkin/My_portfolio/blob/main/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%E2%84%963.md)
 
 <p>Выводы (итоги):<p>
 <ol>
@@ -77,7 +77,7 @@
 <p>Как решал: краткое описание решения (автореферат)<p>
 С помощью оконной функции создал табличку на основе которой произвел расчеты
 
-[Проект №3](https://github.com/YuryLuchkin/portfolio/blob/main/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%E2%84%963.md)
+[Проект №4](https://github.com/YuryLuchkin/My_portfolio/blob/main/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%E2%84%964.md)
 
 <p>Выводы (итоги):<p>
 <ol>
@@ -96,7 +96,7 @@
 <p>Как решал: краткое описание решения (автореферат)<p>
 С помощью оконных функций и подзапросов произвел расчеты и выбрал столбцы которые интересуют задачу
 
-[Проект №4](https://github.com/YuryLuchkin/portfolio/blob/main/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%E2%84%964.md)
+[Проект №5](https://github.com/YuryLuchkin/My_portfolio/blob/main/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%E2%84%965.md)
 
 <p>Выводы (итоги):<p>
 <ol>
@@ -122,7 +122,7 @@
 создал CTE с вычисленными балансами каждого студента.<br>
 </ol>
 
-[Проект №5](https://github.com/YuryLuchkin/portfolio/blob/main/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%E2%84%965.md)
+[Проект №6](https://github.com/YuryLuchkin/My_portfolio/blob/main/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%E2%84%966.md)
 
 <p>Выводы (итоги):<p>
 <ol>
